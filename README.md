@@ -18,7 +18,8 @@ Cause: The cause of the suicide.
 ![Screenshot 2024-07-06 091237](https://github.com/XRiya/Indian-Suicide-Spectrum/assets/114230772/02511cc0-cece-4979-8e00-b2e31d7b8981)
 # State-wise Suicide Rates
 This section presents the analysis of suicide rates across different states in India, identifying the states with the highest and lowest rates.
-![Screenshot 2024-07-06 091500](https://github.com/XRiya/Indian-Suicide-Spectrum/assets/114230772/274f5df7-80b9-40e5-bf8f-322eba4b0799)
+
+![Screenshot 2024-07-06 091317](https://github.com/XRiya/Indian-Suicide-Spectrum/assets/114230772/c2734de1-78d3-45e3-b4cd-d8134a41b76b)
 
 # Age Distribution
 This section explores the distribution of suicides across various age groups, highlighting the most affected age groups.
@@ -42,6 +43,11 @@ Common causes of suicides: The study examines why people commit suicide to answe
 
 A detailed analysis of the top 3 states having the highest suicide rates: A closer look at the top three leading suicidal states, investigating specific elements and trends within them.
 
-![Screenshot 2024-07-06 091317](https://github.com/XRiya/Indian-Suicide-Spectrum/assets/114230772/c2734de1-78d3-45e3-b4cd-d8134a41b76b)
+
+![Screenshot 2024-07-06 093837](https://github.com/XRiya/Indian-Suicide-Spectrum/assets/114230772/8a88cb35-a556-40fe-9172-4823e6065f49)
+
+![Screenshot 2024-07-06 091500](https://github.com/XRiya/Indian-Suicide-Spectrum/assets/114230772/274f5df7-80b9-40e5-bf8f-322eba4b0799)
+
+
 
 
